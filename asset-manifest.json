@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Activity-ReactJS/static/css/main.818434b7.css",
+    "main.js": "/Activity-ReactJS/static/js/main.fa1d6b2e.js",
+    "static/media/logo1.png": "/Activity-ReactJS/static/media/logo1.107170d89f22b43cb9fb.png",
+    "index.html": "/Activity-ReactJS/index.html",
+    "main.818434b7.css.map": "/Activity-ReactJS/static/css/main.818434b7.css.map",
+    "main.fa1d6b2e.js.map": "/Activity-ReactJS/static/js/main.fa1d6b2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818434b7.css",
+    "static/js/main.fa1d6b2e.js"
+  ]
+}
